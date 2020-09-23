@@ -1,0 +1,1 @@
+<annotation> <folder> images </folder> <filename>kimchijjigae (214).jpg</filename> <size> <width>328</width> <height>418</height>	<depth>3</depth></size>	<segmented>0</segmented><object><name>kimchijjigae</name><pose>Left</pose><truncated>1</truncated><difficult>0</difficult><bndbox><xmin>0</xmin><ymin>0</ymin><xmax>328</xmax><ymax>418</ymax>	</bndbox></object>	</annotation>

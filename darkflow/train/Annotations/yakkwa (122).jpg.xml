@@ -1,0 +1,1 @@
+<annotation> <folder> images </folder> <filename>yakkwa (122).jpg</filename> <size> <width>650</width> <height>403</height>	<depth>3</depth></size>	<segmented>0</segmented><object><name>yakkwa</name><pose>Left</pose><truncated>1</truncated><difficult>0</difficult><bndbox><xmin>0</xmin><ymin>0</ymin><xmax>650</xmax><ymax>403</ymax>	</bndbox></object>	</annotation>

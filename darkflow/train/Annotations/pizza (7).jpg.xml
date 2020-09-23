@@ -1,0 +1,1 @@
+<annotation> <folder> images </folder> <filename>pizza (7).jpg</filename> <size> <width>353</width> <height>250</height>	<depth>3</depth></size>	<segmented>0</segmented><object><name>pizza</name><pose>Left</pose><truncated>1</truncated><difficult>0</difficult><bndbox><xmin>0</xmin><ymin>0</ymin><xmax>353</xmax><ymax>250</ymax>	</bndbox></object>	</annotation>

@@ -1,0 +1,1 @@
+<annotation> <folder> images </folder> <filename>galcheegui (94).jpg</filename> <size> <width>866</width> <height>577</height>	<depth>3</depth></size>	<segmented>0</segmented><object><name>galcheegui</name><pose>Left</pose><truncated>1</truncated><difficult>0</difficult><bndbox><xmin>0</xmin><ymin>0</ymin><xmax>866</xmax><ymax>577</ymax>	</bndbox></object>	</annotation>
